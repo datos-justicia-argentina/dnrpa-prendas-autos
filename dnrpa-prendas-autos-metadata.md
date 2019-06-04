@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### DNRPA. Prendas de autos AAAA-MM
+### DNRPA. Prendas de autos - AAAAMM
 
--   **Nombre del archivo:** dnrpa-prendas-autos-AAAA-MM.csv
+-   **Nombre del archivo:** dnrpa-prendas-autos-AAAAMM.csv
 
 -   **Descripción del contenido:** se detallan las prendas inscriptas en los Registros Seccionales de la Propiedad Automotor en el mes MM del año AAAA
 
